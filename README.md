@@ -5,7 +5,7 @@
 
 # Sobre
 
-Repositório contendo o desafios 01 elaborado na **Maratona Full Cycle 2.0** promovido pela **[Full Cycle](http://fullcycle.com.br)** (School of Net e Code Education). Os desafios consistiam em elaborar as aplicações, criar as imagens com o docker e publica-las  no dockerhub.
+Repositório contendo o desafio 01 elaborado na **Maratona Full Cycle 2.0** promovido pela **[Full Cycle](http://fullcycle.com.br)** (School of Net e Code Education). Os desafios consistiam em elaborar as aplicações, criar as imagens com o docker e publica-las  no dockerhub.
 - O desafio 1 consistia em subir um servidor NodeJS com uma mensagem.
 
 # Desafio 1 (Enunciado)
